@@ -28,22 +28,8 @@ As a QA Engineer, I act as the final gatekeeper of quality. My mission is to ens
 
 </details>
 
----
 
-### 🛠️ Updated Toolkit (Featuring Trello)
 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=ns1839-netizen&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/丂𝙋⚡乂𝘿-grey?style=flat&logo=telegram)](https://t.me/spxd007)
-
----
 
 ![QA Tools](https://img.shields.io/badge/-%F0%9F%9A%80%20My%20Testing%20Toolkit-orange)
 <br>
@@ -55,7 +41,7 @@ As a QA Engineer, I act as the final gatekeeper of quality. My mission is to ens
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 </div>
 
