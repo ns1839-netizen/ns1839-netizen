@@ -5,8 +5,7 @@
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
-<br>
+
 
 <details>
 <p><strong> <summary> 🔍 Hunting Bugs & Vibing to : </summary> </strong></p>
@@ -41,13 +40,13 @@
 ```dart
 // Optimized for Quality Assurance (QA)
 
-class About extends Netizen { 
+class About extends Nancy { 
   const myQAStack = {  
     "Role" : "Software Quality Assurance Engineer",
     "Automation" : { "Selenium", "Appium", "Playwright", "TestNG" },
-    "TestingTypes" : { "Manual", "API Testing", "Load Testing", "Security" },
-    "Scripting" : { "Python", "Java", "Dart", "JavaScript", "Bash" },
-    "Monitoring" : { "Jira", "Postman", "Firebase Test Lab" },
-    "OtherTools" : { "Git", "Figma", "Docker", "Markdown" }
+    "TestingTypes" : { "Manual", "API Testing", "Mobile Testing", "Security Testing" },
+    "Scripting" : {  "Java", "JavaScript" },
+    "Monitoring" : { "Jira", "Postman", "Trello" },
+    "OtherTools" : { "Git" }
   };
 }
