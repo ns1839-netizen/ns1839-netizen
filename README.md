@@ -3,8 +3,9 @@
 # Hi 🖐️, I'm Nancy
 ### ✨ Software Quality Assurance Engineer | Bug Hunter ✨
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Web%20Development/Software_Testing.gif?raw=true" alt="Software Testing" width="60%"/>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 <br>
 
 <details>
@@ -27,10 +28,9 @@
 ![Appium](https://img.shields.io/badge/Appium-662d91?style=for-the-badge&logo=appium&logoColor=white)
 ![Jmeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 </div>
 
