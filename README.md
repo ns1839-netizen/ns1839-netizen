@@ -7,34 +7,56 @@
 
 ---
 
-## 🛠 Tools & Technologies I Use
+## 🧪 My Testing Toolkit
 
-**Programming & Scripting:** Dart, Go, Python, JavaScript, Java, C++  
-**Web & Markup:** HTML, CSS, JSON, Markdown, Bash  
-**Databases:** Firebase, SQLite, PostgreSQL  
-**Editors & IDEs:** VS Code, Xcode, Sublime Text, Neovim  
-**Design & Misc Tools:** Figma, Photoshop, Gimp, Lightroom, Git  
-**Platforms:** Windows, Mac, GNU/Linux
+<div align="left">
+
+**Languages & Scripting:**  
+<kbd>Dart</kbd> <kbd>Go</kbd> <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>Java</kbd> <kbd>C++</kbd>  
+
+**Web & Markup:**  
+<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JSON</kbd> <kbd>Markdown</kbd> <kbd>Bash</kbd>  
+
+**Databases:**  
+<kbd>Firebase</kbd> <kbd>SQLite</kbd> <kbd>PostgreSQL</kbd>  
+
+**Editors & IDEs:**  
+<kbd>VS Code</kbd> <kbd>Xcode</kbd> <kbd>Sublime</kbd> <kbd>Neovim</kbd>  
+
+**Design & Tools:**  
+<kbd>Figma</kbd> <kbd>Photoshop</kbd> <kbd>Gimp</kbd> <kbd>Lightroom</kbd> <kbd>Git</kbd>  
+
+**Platforms:**  
+<kbd>Windows</kbd> <kbd>Mac</kbd> <kbd>GNU/Linux</kbd>  
+
+</div>
 
 ---
 
-## 📫 Connect with Me
+## 🔗 Connect with Me
 
 - Telegram: [@your_telegram](https://t.me/your_telegram)  
 - GitHub: [nancy-shabban](https://github.com/nancy-shabban)
 
 ---
 
-## 💡 Fun Fact
-I love exploring **GNU/Linux**, testing software, and discovering hidden bugs.  
-Also, did you know? Banging your head against a wall for one hour burns **150 calories**! 😅
+## 🐞 My Testing Cycle
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="80" alt="Bug Found"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="80" alt="Bug Fixed"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80" alt="Unexpected Behavior"/>
+
+<br>
+<small>Bug Found → Bug Fixed → Unexpected Behavior → Continuous Improvement</small>
+
+</div>
 
 ---
 
-## 🔍 My Testing Cycle
-
-| Bug Found | Bug Fixed | Unexpected Behavior |
-|-----------|-----------|-------------------|
-| ![Bug Found](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png) | ![Bug Fixed](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png) | ![Unexpected](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png) |
+## 💡 Fun Fact
+I love exploring **GNU/Linux**, testing software thoroughly, and discovering hidden bugs.  
+Also, did you know? Banging your head against a wall for one hour burns **150 calories**! 😅
 
 </div>
